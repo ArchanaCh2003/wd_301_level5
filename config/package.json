@@ -1,0 +1,21 @@
+{
+    "dependencies": {
+      "connect": "^3.7.0",
+      "firebase-admin": "^11.0.1",
+      "minimist": "^1.2.7",
+      "node-telegram-bot-api": "^0.57.0",
+      "pg": "^8.8.0",
+      "pg-hstore": "^2.3.4",
+      "request": "^2.88.2",
+      "sequelize": "^6.28.0"
+    },
+    "devDependencies": {
+      "jest": "^29.3.1",
+      "sequelize-cli": "^6.5.2"
+    }
+
+    
+    
+  }
+  
+  
